@@ -47,7 +47,7 @@ flowchart
 
     element --> | Direct Out | sys{{System <br/> Mixer}}
 
-    volume --> amp{{Ampflifier}}
+    volume --> amp{{Gallien-Krueger 400RB Ampflifier}}
 ```
 
 # My Bass: Kiesel 7-string Multifret
@@ -151,3 +151,12 @@ The two layer design allows me to have my power supplies, HPF, and sometimes I p
 ## Strymon Clean Power
 
 All these pedals are powered by a [Strymon Zuma](https://www.strymon.net/product/zuma/) 9-outlet power supply with two [Strymon Ojai](https://www.strymon.net/product/ojai-expansion-kits/) expanders adding 5-outlets each. I love Strymon supplies because they are all isolated power and completely clean. The Zuma gives me two 12v and 18v power supplies if I need them.
+
+# Amplifiers
+
+My main amp is an old [Gallien-Krueger 400RB](https://www.gallien-krueger.com/rb-heads) head that's been discontinued for a number of years, that feeds 2 custom made 14 inch speaker cabinets. This sits in a rack case with a big power conditioner and some other stuff. Both the head and the cabinets I got for free from a coworker years ago who was not playing anymore and just wanted them to be used. This is a mammoth rig that can fill a small stadium with sound, it's a bit over-powered to be what is effectively my practice rig. In fact, I only have one cabinet in my house, the other cabinet is out in the garage taking up space there.
+
+Traveling around, I often use an [Ampeg Micro-CL 2x10](https://ampeg.com/products/classic/micro/). 
+
+## Darkglass Amp desires
+Both of these amps are are workable, but the Gallien-Krueger is just too big to take anywhere, so sits in my house taking up an *entire* corner of a room, with my Micro-CL travel amp taking up another corner. It's a lot of gear for not alot of use. My current plan is to sell my mammoth Gallien-Krueger system *and* my Ampeg Micro-CL and buy one [Darkglass Microtubes 500 Combo 210](https://www.darkglass.com/creation/microtubes-500-combo-210/) to use both as my home/practice amp AND my travel/gig amp. 
