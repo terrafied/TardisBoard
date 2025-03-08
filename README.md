@@ -42,7 +42,7 @@ flowchart
         hpf --> element{{Darkglass <br/> Element}}
 
         element --> volume{{Hotone <br/> Wong Press}}
-        volume --> | Octave shift <br/> Expression | octave
+        volume --> | Decay Expression | cloud
     end
 
     element --> | Direct Out | sys{{System <br/> Mixer}}
